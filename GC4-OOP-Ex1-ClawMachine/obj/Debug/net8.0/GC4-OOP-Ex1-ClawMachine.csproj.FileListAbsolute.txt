@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\bin\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.exe
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\bin\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.deps.json
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\bin\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.runtimeconfig.json
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\bin\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.dll
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\bin\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.pdb
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.AssemblyInfo.cs
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.dll
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\refint\GC4-OOP-Ex1-ClawMachine.dll
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.pdb
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\GC4-OOP-Ex1-ClawMachine.genruntimeconfig.cache
+C:\Users\david\source\repos\GC4-OOP-Ex1-ClawMachine\GC4-OOP-Ex1-ClawMachine\obj\Debug\net8.0\ref\GC4-OOP-Ex1-ClawMachine.dll
